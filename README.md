@@ -1,6 +1,6 @@
 # Document Extraction Service
 
-This repository contains the code for the Feathery Document Extraction Service.
+This repository contains the code for the Document Extraction Service.
 
 Further details on this service can be found in the [Design Doc](https://plctrm.notion.site/Document-Extraction-Service-Design-Doc-4d6c86fb7c9844b683400aa4963468a6).
 
